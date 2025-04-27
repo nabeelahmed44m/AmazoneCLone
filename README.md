@@ -78,3 +78,4 @@ Please note that the backend is not deployed on Firebase due to paid limitations
 ## Video
 
 https://github.com/HuzaifaIlyas02/Amazon-Clone/assets/86406012/5cdae17b-b8a1-4c5a-ac8c-1761c4c97c43
+"# AmazoneCLone" 
