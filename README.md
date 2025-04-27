@@ -58,16 +58,6 @@ To further enhance the project, the following improvements could be considered:
 - Introduce search functionality for products to improve user experience.
 - Add menu bars below the header to mimic other features of Amazon.
 
-## Running the Project
-
-To run the project locally:
-
-1. Clone the repository to your local machine.
-2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
-3. Navigate to the folder `cd netflix-clone`.
-4. Set up Firebase configuration for hosting, authentication, and database.
-5. Replace the Firebase configuration in the project with your own credentials.
-6. Run the project using `npm start`.
 
 For an overview of the app and its functionalities, please visit [App Overview](https://clone-8ecbd.web.app/).
 
@@ -75,7 +65,3 @@ For an overview of the app and its functionalities, please visit [App Overview](
 
 Please note that the backend is not deployed on Firebase due to paid limitations. You can deploy the backend on Firebase or use alternative hosting solutions.
 
-## Video
-
-https://github.com/HuzaifaIlyas02/Amazon-Clone/assets/86406012/5cdae17b-b8a1-4c5a-ac8c-1761c4c97c43
-"# AmazoneCLone" 
